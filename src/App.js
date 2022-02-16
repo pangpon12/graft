@@ -18,31 +18,31 @@ function App() {
     {
       name: 'Page A',
     
-      pv: pvA,
+      ค่าความชัน: pvA,
       amt: 2400,
     },
     {
       name: 'Page B',
      
-      pv: pvB,
+      ค่าความชัน: pvB,
       amt: 2210,
     },
     {
       name: 'Page C',
    
-      pv: pvC,
+      ค่าความชัน: pvC,
       amt: 2290,
     },
     {
       name: 'Page D',
    
-      pv: pvD,
+      ค่าความชัน: pvD,
       amt: 2000,
     },
     {
       name: 'Page E',
     
-      pv: pvG,
+      ค่าความชัน: pvG,
       amt: 2181,
     },
    
